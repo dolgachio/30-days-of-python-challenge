@@ -48,5 +48,6 @@ def filter_messages(messages):
 print(filter_messages(messages1))
 
 
-    
-
+status = "ready"
+status = 3
+print(status)
